@@ -4,6 +4,8 @@
         "ostream": "cpp",
         "*.tcc": "cpp",
         "fstream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "system_error": "cpp"
     }
 }
